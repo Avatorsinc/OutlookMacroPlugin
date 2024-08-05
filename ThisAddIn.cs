@@ -13,12 +13,10 @@ namespace OutlookMacroPlugin
     {
         private void ThisAddIn_Startup(object sender, System.EventArgs e)
         {
-            // Add your startup code here
         }
 
         private void ThisAddIn_Shutdown(object sender, System.EventArgs e)
         {
-            // Add your shutdown code here
         }
 
         public void MoveSelectedToTreatedSD()
